@@ -7,7 +7,7 @@
 
 # Requirements
 
-1. Install Node js from [Here][https://nodejs.org/en/]
+1. Install Node js from [here][nodejs]
 2. Install firebase-tools package in npm
    npm install -g firebase-tools
 3. Login to Firebase-CLI
@@ -17,6 +17,7 @@
    npx firebase init
    choose host functions only
    choose your project
+   [nodejs]:[https://nodejs.org/en/]
 
 # Installation
 
