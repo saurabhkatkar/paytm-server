@@ -4,6 +4,7 @@
 - To connect to emulator in localhost. Replace localhost to 10.0.2.2.
 - Copy hosted URL to flutter code. Something like this "http://localhost:5000/{Firebase-Project-Name}/us-central1/customFunctions"
 - Checksum folder is copied from paytm github repo.
+- Refer Flutter Code [here](https://github.com/saurabhkatkar/flutter-payments)
 
 # Requirements
 
