@@ -10,12 +10,12 @@
 
 1. Install Node js from [here][nodejs]
 2. Install firebase-tools package in npm
-   npm install -g firebase-tools
+   `npm install -g firebase-tools`
 3. Login to Firebase-CLI
-   npx firebase login
+   `npx firebase login`
 4. Create a Firebase project to use functions.
 5. Create firebase project in CLI
-   npx firebase init
+   `npx firebase init`
    choose host functions only
    choose your project
 
@@ -24,11 +24,15 @@
 # Installation
 
 1. Install npm packages from functions.
+   ```
    cd functions
    npm i
+   ```
 2. To run server locally.
-   cd ..
+  ```
+  cd ..
    npx firebase serve --only functions
+   ```
 
 # Installation Steps from PAYTM Docs
 
