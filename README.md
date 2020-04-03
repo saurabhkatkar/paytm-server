@@ -31,7 +31,7 @@
 2. To run server locally.
   ```
   cd ..
-   npx firebase serve --only functions
+  npx firebase serve --only functions
    ```
 
 # Installation Steps from PAYTM Docs
