@@ -17,7 +17,8 @@
    npx firebase init
    choose host functions only
    choose your project
-   [nodejs]:[https://nodejs.org/en/]
+
+[nodejs]: https://nodejs.org/en/
 
 # Installation
 
